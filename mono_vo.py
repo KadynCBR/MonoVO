@@ -1,3 +1,7 @@
+"""
+While the initial foundation of this class was inspired by code from Nicolai Nielsen's course, it has since been significantly modified and extended.
+"""
+
 import cv2
 import numpy as np
 from tqdm import tqdm

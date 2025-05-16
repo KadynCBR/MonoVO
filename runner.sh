@@ -1,1 +1,1 @@
-python runner.py ../dataset/sequences/$1/image_0 ../dataset/sequences/$1/calib.txt ../dataset/poses/$1.txt 500
+python runner.py ../dataset/sequences/$1/image_0 ../dataset/sequences/$1/calib.txt ../dataset/poses/$1.txt 500 -d
